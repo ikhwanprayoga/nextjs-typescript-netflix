@@ -118,7 +118,7 @@ function Modal() {
 
                 <div>
                   <span className="text-[gray]">Total votes: </span>
-                    {movie?.vote_count}
+                  {movie?.vote_count}
                 </div>
               </div>
             </div>
